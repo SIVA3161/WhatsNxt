@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068455282192",
+    "project_id": "whatsnxt-1a97d",
+    "storage_bucket": "whatsnxt-1a97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068455282192:android:3c082645041c987053ac95",
+        "android_client_info": {
+          "package_name": "com.example.whatsnxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068455282192-fvn6hfq394o3i600llo9f80hjt2r2igg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdycJT3qp2KrAxgPpfO7ku8ueW6sGAHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068455282192-fvn6hfq394o3i600llo9f80hjt2r2igg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
